@@ -5,7 +5,7 @@
 
 ## Mi libro favorito
 
-![1984](https://img.shields.io/website?url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2F1984_(novela))
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2F1984_(novela))
 
 ## Repositorios
 
