@@ -3,9 +3,13 @@
 >:computer: **Estudiante de TSUDSM (Desarrollo de Software Multiplataforma)**   
 :eyeglasses: **Progresando en cursos de Platzi en tiempos libres**
 
-## Mi libro favorito
+## Mis libros favorito :book:
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.philosophia.cl%2Fbiblioteca%2Forwell%2F1984.pdf)
+:book: [1984](https://www.philosophia.cl/biblioteca/orwell/1984.pdf)
+
+:book: [Cien años de soledad](https://es.wikipedia.org/wiki/Cien_a%C3%B1os_de_soledad)
+
+:book: [La historia interminable](https://es.wikipedia.org/wiki/La_historia_interminable)
 
 ## Repositorios
 
