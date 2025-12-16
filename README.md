@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Alfonsolis/Alfonsolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Estudiante de TSUDSM (Desarrollo de Software Multiplataforma)**
+:eyeglasses: **Progresando en cursos de Platzi en tiempos libres**
 
-Here are some ideas to get you started:
+## Mi libro favorito
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![1984](https://img.shields.io/website?url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2F1984_(novela))
+
+## Repositorios
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alfonsolis/Alfonsolis)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alfonsolis/MiPrimerRepoGitHub)
