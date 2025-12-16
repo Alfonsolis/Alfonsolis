@@ -1,6 +1,6 @@
 # Hi there 👋
 
-:computer: **Estudiante de TSUDSM (Desarrollo de Software Multiplataforma)**
+>:computer: **Estudiante de TSUDSM (Desarrollo de Software Multiplataforma)**   
 :eyeglasses: **Progresando en cursos de Platzi en tiempos libres**
 
 ## Mi libro favorito
