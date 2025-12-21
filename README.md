@@ -19,8 +19,8 @@
 
 ### :zap: Actividad reciente
 
-<!--START\_SECTION:activity-->
-<!--END\_SECTION:activity-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-<!--RECENT\_ACTIVITY:start-->
-<!--RECENT\_ACTIVITY:last\_update-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
