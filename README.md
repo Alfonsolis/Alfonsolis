@@ -17,14 +17,14 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alfonsolis/MiPrimerRepoGitHub)
 
-\### :zap: Actividad reciente
+### :zap: Actividad reciente
 
-\<!--START\_SECTION:activity-->
+<!--START_SECTION:activity-->
 
-\<!--END\_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 
-\<!--RECENT\_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:start-->
 
-\<!--RECENT\_ACTIVITY:last\_update-->
+<!--RECENT_ACTIVITY:last_update-->
